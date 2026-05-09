@@ -271,10 +271,10 @@ Runs the email pipeline every day at 9:00 AM automatically.
 
 | Screenshot | Description |
 |------------|-------------|
-| `images/dashboard_overview.png` | Streamlit Overview tab with metrics and charts |
-| `images/dashboard_run.png` | Run & Send tab showing live progress and activity log |
-| `images/dashboard_report.png` | Reports tab with status pie chart |
-| `images/dry_run_terminal.png` | Terminal output in dry-run mode |
+| `images/dashboard.png` | Streamlit Overview tab with metrics and charts |
+| `imageslive mode(real mail).png` | Run & Send tab showing live progress and activity log |
+| `images/reports and analytics.png` | Reports tab with status pie chart |
+| `images/dry run mode.png` | Terminal output in dry-run mode |
 | `images/folder_structure.png` | Project folder in VS Code Explorer |
 
 ---
