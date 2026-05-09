@@ -362,8 +362,8 @@ plotly>=5.22.0
 
 ## 👤 Author
 
-**Your Name**
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | 🐙 [GitHub](https://github.com/yourusername)
+**Tanishq Jakate**
+🔗 [LinkedIn](linkedin.com/in/tanishq-jakate-93617a402) | 🐙 [GitHub](https://github.com/tanishqcodes10)
 
 > 💡 *Built as a Python automation portfolio project demonstrating real-world email workflow automation skills relevant to Python Developer, Automation Engineer, HR Tech, Operations, and Business Productivity roles.*
 
