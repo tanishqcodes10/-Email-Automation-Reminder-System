@@ -271,10 +271,10 @@ Runs the email pipeline every day at 9:00 AM automatically.
 
 | Screenshot | Description |
 |------------|-------------|
-| `images/dashboard_overview.png` | Streamlit Overview tab with metrics and charts |
-| `images/dashboard_run.png` | Run & Send tab showing live progress and activity log |
-| `images/dashboard_report.png` | Reports tab with status pie chart |
-| `images/dry_run_terminal.png` | Terminal output in dry-run mode |
+| `images/dashboard.png` | Streamlit Overview tab with metrics and charts |
+| `imageslive mode(real mail).png` | Run & Send tab showing live progress and activity log |
+| `images/reports and analytics.png` | Reports tab with status pie chart |
+| `images/dry run mode.png` | Terminal output in dry-run mode |
 | `images/folder_structure.png` | Project folder in VS Code Explorer |
 
 ---
@@ -362,18 +362,12 @@ plotly>=5.22.0
 
 ## 👤 Author
 
-**Your Name**
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | 🐙 [GitHub](https://github.com/yourusername)
+**Tanishq Jakate**
+🔗 [LinkedIn](linkedin.com/in/tanishq-jakate-93617a402) | 🐙 [GitHub](https://github.com/tanishqcodes10)
 
 > 💡 *Built as a Python automation portfolio project demonstrating real-world email workflow automation skills relevant to Python Developer, Automation Engineer, HR Tech, Operations, and Business Productivity roles.*
 
----
 
-## 📄 License
-
-This project is licensed under the **MIT License** — free to use, modify, and distribute for personal and commercial purposes.
-
----
 
 <div align="center">
 ⭐ If you found this project useful, please give it a star on GitHub!
