@@ -9,10 +9,22 @@ import os
 import sys
 import logging
 from datetime import datetime
-from dotenv import load_dotenv
 
-# Load environment variables
-load_dotenv()
+# ── Credential loading: supports both local .env and Streamlit Cloud secrets ──
+try:
+    # Streamlit Cloud — reads from Secrets dashboard
+    EMAIL_ADDRESS  = st.secrets["EMAIL_ADDRESS"]
+    EMAIL_PASSWORD = st.secrets["EMAIL_PASSWORD"]
+    SENDER_COMPANY = st.secrets.get("SENDER_COMPANY", "Email Automation System")
+    DRY_RUN        = st.secrets.get("DRY_RUN", "True")
+    os.environ["EMAIL_ADDRESS"]  = EMAIL_ADDRESS
+    os.environ["EMAIL_PASSWORD"] = EMAIL_PASSWORD
+    os.environ["SENDER_COMPANY"] = SENDER_COMPANY
+    os.environ["DRY_RUN"]        = DRY_RUN
+except Exception:
+    # Local development — reads from .env file
+    from dotenv import load_dotenv
+    load_dotenv()
 
 # Add src/ to path so we can import our modules
 sys.path.append(os.path.join(os.path.dirname(__file__), "src"))
@@ -22,7 +34,6 @@ from personalizer  import load_template, personalize_message
 from email_sender  import send_email
 from reporter      import generate_report
 from logger        import setup_logger
-
 # ─────────────────────────────────────────────
 # PAGE CONFIGURATION
 # ─────────────────────────────────────────────
