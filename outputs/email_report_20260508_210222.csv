@@ -1,0 +1,6 @@
+timestamp,recipient_name,recipient_email,subject,status,error
+2026-05-08 21:02:22,Priya Sharma,priya.sharma@example.com,Team Standup Meeting Reminder,DRY-RUN (Simulated),
+2026-05-08 21:02:22,Rahul Mehta,rahul.mehta@example.com,Invoice Payment Due Reminder,DRY-RUN (Simulated),
+2026-05-08 21:02:22,Ananya Singh,ananya.singh@example.com,Python Automation Webinar Reminder,DRY-RUN (Simulated),
+2026-05-08 21:02:22,Vikas Gupta,vikas.gupta@example.com,Quarterly Report Submission Reminder,DRY-RUN (Simulated),
+2026-05-08 21:02:22,Sneha Patel,sneha.patel@example.com,Follow-Up: Product Demo Scheduled,DRY-RUN (Simulated),

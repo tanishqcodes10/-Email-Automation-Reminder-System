@@ -1,0 +1,23 @@
+Dear {name},
+
+This is a friendly reminder from {company_sender}.
+
+Subject: {subject}
+
+We wanted to reach out to you at {company} regarding the above.
+
+Details:
+- Reminder Type : {reminder_type}
+- Scheduled For : {send_date} at {send_time}
+- Your Role     : {role}
+
+Please make sure to take necessary action before the deadline.
+
+If you have any questions, feel free to reply to this email.
+
+Best Regards,
+Email Automation System
+{company_sender}
+
+--
+This is an automated email. Please do not reply directly.

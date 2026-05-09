@@ -1,0 +1,14 @@
+Dear {name},
+
+This is a payment reminder.
+
+Invoice Subject : {subject}
+Due Date        : {send_date}
+Your Company    : {company}
+
+Kindly process the payment at the earliest to avoid any late fees.
+
+Thank you for your cooperation.
+
+Finance Team
+{company_sender}

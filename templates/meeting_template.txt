@@ -1,0 +1,13 @@
+Dear {name},
+
+You have an upcoming meeting scheduled.
+
+Meeting Subject : {subject}
+Date & Time     : {send_date} at {send_time}
+Your Company    : {company}
+
+Please be available 5 minutes early and ensure your setup is ready.
+
+Warm Regards,
+HR / Admin Team
+{company_sender}

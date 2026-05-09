@@ -1,0 +1,6 @@
+reminder_id,contact_id,reminder_type,subject,send_date,send_time
+R001,1,meeting,Team Standup Meeting Reminder,2026-05-10,09:00
+R002,2,payment,Invoice Payment Due Reminder,2026-05-10,10:00
+R003,3,webinar,Python Automation Webinar Reminder,2026-05-10,11:00
+R004,4,task,Quarterly Report Submission Reminder,2026-05-10,12:00
+R005,5,followup,Follow-Up: Product Demo Scheduled,2026-05-10,09:30
