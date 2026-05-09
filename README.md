@@ -367,13 +367,7 @@ plotly>=5.22.0
 
 > 💡 *Built as a Python automation portfolio project demonstrating real-world email workflow automation skills relevant to Python Developer, Automation Engineer, HR Tech, Operations, and Business Productivity roles.*
 
----
 
-## 📄 License
-
-This project is licensed under the **MIT License** — free to use, modify, and distribute for personal and commercial purposes.
-
----
 
 <div align="center">
 ⭐ If you found this project useful, please give it a star on GitHub!
